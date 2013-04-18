@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" name="Default" comment="changed readme">
-      <change type="DELETED" beforePath="C:\Users\adam.roffler\IdeaProjects\CrazyTP\.idea\workspace.xml" afterPath="" />
+    <list default="true" id="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="crazytp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,7 +12,7 @@
     <file path="/sample.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366241191510" ignored="false" />
     <file path="/crazytp.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366248040730" ignored="false" />
     <file path="/fragment.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366241875131" ignored="false" />
-    <file path="/Dummy.txt" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366323083934" ignored="false" />
+    <file path="/Dummy.txt" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366324200039" ignored="false" />
     <file path="/.gitignore" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366259222060" ignored="false" />
     <file path="/README.md" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366259835216" ignored="false" />
     <file path="/plugin.yml" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366322951670" ignored="false" />
@@ -484,7 +484,11 @@
       <created>1366323085764</created>
       <updated>1366323085764</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="changed readme">
+      <created>1366324202519</created>
+      <updated>1366324202519</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -575,7 +579,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="found goof" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed readme" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -596,10 +600,10 @@
     <MESSAGE value="notes" />
     <MESSAGE value="fixing gitignore" />
     <MESSAGE value="gitignore" />
-    <MESSAGE value="changed readme" />
     <MESSAGE value="Added YML" />
     <MESSAGE value="changed yml" />
     <MESSAGE value="found goof" />
+    <MESSAGE value="changed readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
