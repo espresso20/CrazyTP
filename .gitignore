@@ -1,6 +1,9 @@
 *.class
 
+#maven!
+
 # Package Files #
 *.jar
 *.war
 *.ear
+
