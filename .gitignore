@@ -1,6 +1,6 @@
 *.class
 
-#maven!
+#maven
 
 # Package Files #
 *.jar

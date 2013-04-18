@@ -12,9 +12,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 class crazytp extends JavaPlugin {
     //Tp to any random location given a area
     public void onDisable() {
+
     }
 
     public void onEnable() {
+
     }
 
 
