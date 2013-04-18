@@ -10,14 +10,16 @@ import org.bukkit.plugin.java.JavaPlugin;
  * To change this template use File | Settings | File Templates.
  */
 class crazytp extends JavaPlugin {
-    //Tp to any random location given a area
-    public void onDisable() {
 
-    }
-
+    @Override
     public void onEnable() {
+            getLogger().info("onEnable has been invoked");
 
     }
 
+    @Override
+    public void onDisable() {
+            getLogger().info("onDisable has been invoked");
 
+    }
 }
