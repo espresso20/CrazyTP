@@ -12,8 +12,8 @@
     <file path="/sample.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366241191510" ignored="false" />
     <file path="/crazytp.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366248040730" ignored="false" />
     <file path="/fragment.java" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366241875131" ignored="false" />
-    <file path="/Dummy.txt" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366258888179" ignored="false" />
-    <file path="/.gitignore" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366258598264" ignored="false" />
+    <file path="/Dummy.txt" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366259015533" ignored="false" />
+    <file path="/.gitignore" changelist="cc43f3b4-5108-41a1-8f4b-6caab5537cf3" time="1366259222060" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.3030303">
+            <state line="10" column="19" selection-start="90" selection-end="90" vertical-scroll-proportion="0.3030303">
               <folding />
             </state>
           </provider>
@@ -243,6 +243,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="crazytp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crazytp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crazytp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,7 +457,11 @@
       <created>1366258898698</created>
       <updated>1366258898698</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="gitignore">
+      <created>1366259016876</created>
+      <updated>1366259016876</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -534,7 +552,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -554,6 +572,7 @@
     <MESSAGE value="ignoring workspace.xml" />
     <MESSAGE value="notes" />
     <MESSAGE value="fixing gitignore" />
+    <MESSAGE value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -682,7 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.3030303">
+        <state line="10" column="19" selection-start="90" selection-end="90" vertical-scroll-proportion="0.3030303">
           <folding />
         </state>
       </provider>
