@@ -8,5 +8,5 @@
 *.ear
 
 #intellij stuff
-.idea/workspace.xml
+.idea
 
