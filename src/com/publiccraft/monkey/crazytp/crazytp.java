@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * Time: 3:55 PM
  * To change this template use File | Settings | File Templates.
  */
-class crazytp extends JavaPlugin {
+public final class crazytp extends JavaPlugin {
 
     @Override
     public void onEnable() {
