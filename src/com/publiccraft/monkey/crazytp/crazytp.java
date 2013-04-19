@@ -1,5 +1,7 @@
 package com.publiccraft.monkey.crazytp;
 
+import org.bukkit.event.EventPriority;
+import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
@@ -11,13 +13,11 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public final class crazytp extends JavaPlugin{
 
-    @Override
     public void onEnable() {
         getLogger().info("onEnable has been invoked");
 
     }
 
-    @Override
     public void onDisable() {
         getLogger().info("onDisable has been invoked");
 
