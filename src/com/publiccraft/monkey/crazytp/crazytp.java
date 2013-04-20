@@ -13,13 +13,17 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public class crazytp extends JavaPlugin{
 
-    public void onEnable() {
+    public void onEnable()
+    {
         getLogger().info("onEnable has been invoked");
+        System.out.println("CrazyTP Enabled");
 
     }
 
-    public void onDisable() {
+    public void onDisable()
+    {
         getLogger().info("onDisable has been invoked");
+        System.out.println("CrazyTP Disabled");
 
     }
 }
