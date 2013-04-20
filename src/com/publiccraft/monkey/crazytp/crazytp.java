@@ -9,7 +9,6 @@ import org.bukkit.plugin.java.JavaPlugin;
  * User: Monkey
  * Date: 4/17/13
  * Time: 3:55 PM
- * To change this template use File | Settings | File Templates.
  */
 public class crazytp extends JavaPlugin{
 
