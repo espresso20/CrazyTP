@@ -11,7 +11,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * Time: 3:55 PM
  * To change this template use File | Settings | File Templates.
  */
-public final class crazytp extends JavaPlugin{
+public class crazytp extends JavaPlugin{
 
     public void onEnable() {
         getLogger().info("onEnable has been invoked");
