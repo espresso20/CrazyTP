@@ -5,6 +5,7 @@ import java.util.logging.Logger;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
@@ -36,6 +37,28 @@ public class crazytp extends JavaPlugin
     		{
     			sender.sendMessage(ChatColor.DARK_RED + "Incorrect number of arguments!");
     		}
+    		else
+    		{
+    			if(args[0].equalsIgnoreCase("heal"))
+    			{
+    				if(!(sender instanceof Player))
+    				{
+    					sender.sendMessage("This Command is only availble to players!");
+    				}
+    				else
+    				{
+    					Player player = (Player) sender;
+    					
+    					player.setHealth(20);
+    					player.sendMessage(ChatColor.GREEN + "The Great Monkey has healed you!");
+    				}
+    			}
+    			else
+    			{
+    				sender.sendMessage(ChatColor.RED + "Unknown Command!");
+    			}
+    		}
+    		
     		
     		return true;
     	}
