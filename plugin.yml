@@ -1,3 +1,6 @@
 name: CrazyTP
 main: com.publiccraft.monkey.crazytp.crazytp
 version: 1.0.0-dev1
+commands:
+    pc:
+        description: base command for pc plugin.
