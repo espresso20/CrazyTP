@@ -43,13 +43,14 @@ public class crazytp extends JavaPlugin
     			{
     				if(!(sender instanceof Player))
     				{
-    					sender.sendMessage("This Command is only availble to players!");
+    					sender.sendMessage("This Command is only available to players!");
     				}
     				else
     				{
     					Player player = (Player) sender;
     					
     					player.setHealth(20);
+                        player.setFoodLevel(5);
     					player.sendMessage(ChatColor.GREEN + "The Great Monkey has healed you!");
     				}
     			}
