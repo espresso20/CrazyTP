@@ -1,7 +1,7 @@
 CrazyTP
 =======
 
-Public-Craft Plugin 
+1.Public-Craft Plugin 
 
 
 A Random Teleport Plugin written for the Public-craft Network
